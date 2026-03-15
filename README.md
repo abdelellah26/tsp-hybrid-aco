@@ -191,8 +191,8 @@ Average improvements:
 
 | Metric | Average |
 |------|------|
-| Pure ACO improvement | **≈ 9.5%** |
-| Hybrid ACO improvement | **≈ 11%** |
+| Pure ACO improvement | **≈ 9.8%** |
+| Hybrid ACO improvement | **≈ 11.2%** |
 
 This demonstrates the effectiveness of combining **Ant Colony Optimization with local search**.
 
