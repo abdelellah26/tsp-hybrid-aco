@@ -292,6 +292,3 @@ python run_benchmark.py --data-dir data/tsplib --pattern test5.tsp --output-dir 
 
 ---
 
-# 👨‍💻 Author
-
-Project developed for **research and experimentation in metaheuristic optimization**.
