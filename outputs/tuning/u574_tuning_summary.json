@@ -1,0 +1,26 @@
+{
+  "instance": "u574",
+  "best_config": {
+    "ants": 64,
+    "max_iter": 520,
+    "stagnation_limit": 93,
+    "restart_after": 41,
+    "candidate_k": 20,
+    "ls_candidate_k": 20,
+    "ls_top_ants": 16,
+    "ls_frequency": 1,
+    "alpha": 1.0,
+    "beta": 3.5,
+    "rho_start": 0.15,
+    "rho_end": 0.08,
+    "q0_start": 0.6,
+    "q0_end": 0.92,
+    "seed": 42,
+    "use_local_search": true
+  },
+  "best_mean_cost": 38788.4,
+  "best_best_cost": 38050.0,
+  "best_std_cost": 651.6728013351485,
+  "best_mean_time": 266.2246654199902,
+  "optimum": 36905
+}

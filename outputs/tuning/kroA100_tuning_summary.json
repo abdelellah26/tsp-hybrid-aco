@@ -1,0 +1,26 @@
+{
+  "instance": "kroA100",
+  "best_config": {
+    "ants": 30,
+    "max_iter": 260,
+    "stagnation_limit": 46,
+    "restart_after": 20,
+    "candidate_k": 10,
+    "ls_candidate_k": 10,
+    "ls_top_ants": 3,
+    "ls_frequency": 1,
+    "alpha": 1.0,
+    "beta": 3.5,
+    "rho_start": 0.15,
+    "rho_end": 0.08,
+    "q0_start": 0.6,
+    "q0_end": 0.92,
+    "seed": 42,
+    "use_local_search": true
+  },
+  "best_mean_cost": 21297.6,
+  "best_best_cost": 21292.0,
+  "best_std_cost": 11.200000000000001,
+  "best_mean_time": 5.830056740017608,
+  "optimum": 21282
+}

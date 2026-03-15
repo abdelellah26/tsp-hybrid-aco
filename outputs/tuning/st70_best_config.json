@@ -1,0 +1,18 @@
+{
+  "ants": 21,
+  "max_iter": 220,
+  "stagnation_limit": 39,
+  "restart_after": 17,
+  "candidate_k": 10,
+  "ls_candidate_k": 10,
+  "ls_top_ants": 4,
+  "ls_frequency": 1,
+  "alpha": 1.0,
+  "beta": 3.5,
+  "rho_start": 0.15,
+  "rho_end": 0.08,
+  "q0_start": 0.6,
+  "q0_end": 0.92,
+  "seed": 42,
+  "use_local_search": true
+}
